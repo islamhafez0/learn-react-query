@@ -1,0 +1,7 @@
+1- // Provide the client to your App
+    QueryClientProvider
+
+2- // Create a client
+    const queryClient = new QueryClient()
+
+3- 
